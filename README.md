@@ -88,7 +88,7 @@ Ensure you have the following installed:
 
 ## 📸 Screenshots
 
-![Chat App Screenshot](assets/screenshot.png)
+![Chat App Screenshot](assets/logn.png)
 *📌 Replace this placeholder with a screenshot of your app in action.*
 
 ---
